@@ -1,6 +1,6 @@
 import { Locale } from '@/app/types';
 
-export const defaultLocale: Locale = 'en';
+export const defaultLocale: Locale = 'ar';
 
 export const locales: Locale[] = ['en', 'ar'];
 

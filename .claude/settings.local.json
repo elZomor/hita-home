@@ -5,7 +5,8 @@
       "Bash(find /mnt/d/projects/hita_festivals_dashboard -name \"tailwind.config.*\" -type f 2>/dev/null | grep -v node_modules)",
       "Bash(find /mnt/d/projects/hita_festivals_dashboard -name \"tailwind.config.*\" -o -name \"postcss.config.*\" 2>/dev/null | grep -v node_modules)",
       "Bash(find /mnt/d/projects/hita/src -type f \\\\\\( -name \"*theme*\" -o -name \"*color*\" \\\\\\) 2>/dev/null | head -20)",
-      "Bash(npm i:*)"
+      "Bash(npm i:*)",
+      "WebFetch(domain:developers.cloudflare.com)"
     ]
   }
 }

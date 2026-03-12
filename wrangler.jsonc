@@ -1,5 +1,5 @@
 {
-  "name": "hita-festivals-dashboard",
+  "name": "hita-home",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-03-12",
   "compatibility_flags": ["nodejs_compat"],

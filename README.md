@@ -7,7 +7,7 @@ Official gateway to the Higher Institute of Theatrical Arts festivals. A product
 This is a standalone Next.js application that serves as the main entry point for HITA festivals. It does not replace or rebuild the existing festival websites - instead, it provides a polished, professional gateway that links to:
 
 - **Arab Festival**: https://arab-festival.hita.play-cast.com/
-- **Global Festival**: https://global-festival.hita.play-cast.com/
+- **Global Festival**: https://gl-festival.hita.play-cast.com/
 
 ## Features
 

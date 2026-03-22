@@ -18,7 +18,7 @@ export const festivals: FestivalContent[] = [
   {
     id: 'global-festival',
     name: 'Global Festival',
-    url: 'https://global-festival.hita.play-cast.com/',
+    url: 'https://gl-festival.hita.play-cast.com/',
     variant: 'secondary',
     title: {
       en: 'Global Festival',

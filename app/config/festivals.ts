@@ -4,7 +4,7 @@ export const festivals: FestivalContent[] = [
   {
     id: 'arab-festival',
     name: 'Arab Festival',
-    url: 'https://arab-festival.hita.play-cast.com/',
+    url: 'https://ar-festival.hita.play-cast.com/',
     variant: 'primary',
     title: {
       en: 'Arab Festival',
